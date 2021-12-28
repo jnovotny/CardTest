@@ -1,0 +1,2 @@
+DAILY_QUOTE, title, message, author
+STATUS_UPDATE, title, message, icon, button
